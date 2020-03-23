@@ -1,6 +1,4 @@
-# Desafios IDwall
-
-Aqui estão os desafios para a primeira fase de testes de candidatos da IDwall para às vagas de **Site Reliability Engineer / DevOps**.
+# Desafios DevOps
 
 1. [Terraform/IaC](https://github.com/idwall/desafios-devops/tree/master/terraform)
 2. [Kubernetes](https://github.com/idwall/desafios-devops/tree/master/kubernetes)
@@ -24,9 +22,3 @@ A implementação deve ficar na pasta correspondente ao desafio. Fique à vontad
 - Descreva como utilizar a sua solução;
 - Sempre considerar melhores práticas como se fosse um ambiente de produção;
 
-
-## Carreira IDwall
-
-Caso queira mais detalhes de como trabalhamos, quais são nossos valores e ideais, confira a página [Carreira IDwall](https://idwall.co/carreira) e mesmo que seu perfil não esteja listado nas vagas em aberto, lhe encorajamos a mandar seu CV para jobs@idwall.co! Valorizamos bons profissionais sempre e gostamos de manter contato com gente boa.
-
-Boas implementações! 
